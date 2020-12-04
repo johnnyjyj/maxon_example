@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall  -rdynamic CMakeFiles/maxon_example.dir/src/maxon_example.cpp.o CMakeFiles/maxon_example.dir/src/maxon_master.cpp.o CMakeFiles/maxon_example.dir/src/maxon_sub.cpp.o  -o maxon_example  -lEposCmd 

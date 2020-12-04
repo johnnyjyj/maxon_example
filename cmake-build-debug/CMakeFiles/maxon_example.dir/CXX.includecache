@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Definitions.h
+
+../include/maxon_master.h
+Definitions.h
+../include/Definitions.h
+
+../include/maxon_sub.h
+Definitions.h
+../include/Definitions.h
+
+/home/johnny/maxon_example/src/maxon_example.cpp
+iostream
+-
+maxon_sub.h
+-
+maxon_master.h
+-
+
